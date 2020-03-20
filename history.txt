@@ -1,0 +1,97 @@
+    1  sudo snap install discord --classic
+    2  sudo apt update
+    3  sudo apt update tree
+    4  sudo dpkg -i code.deb
+    5  ls
+    6  mkdir git-basic-exercises
+    7  ls
+    8  cd git-basic-exercises
+    9  ls -a
+   10  git init
+   11  ls -a
+   12  sudo apt install git
+   13  apt-get update
+   14  --fix-missing?
+   15  --fix-missing
+   16  sudo apt install git
+   17  git init
+   18  ls
+   19  git init
+   20  ls -a
+   21  git status
+   22  clear
+   23  touch README.md
+   24  ls -a
+   25  git status
+   26  git log
+   27  git add README.md
+   28  git status
+   29  git reset -- README.md
+   30  git status
+   31  git add README.md
+   32  git status
+   33  git commit -m "initial commit"
+   34  git config --global user.email "siyabulelakhumalo079@gmail.com"
+   35  git config --global user.name "Siyabulela"
+   36  git commit -m "initial commit"
+   37  git log
+   38  q
+   39  git log
+   40  quit
+   41  clear
+   42  nano README.md
+   43  cat README.md
+   44  git stats
+   45  git status
+   46  git commit
+   47  git commit -a
+   48  git status
+   49  git commit -a
+   50  cat README.md
+   51  git status
+   52  echo "git status!" >> README.md
+   53  git status
+   54  git commit -a
+   55  code .
+   56  chrome .
+   57  code 
+   58  chrome .
+   59  code .
+   60  touch Linux.md
+   61  git init
+   62  git status
+   63  git add .
+   64  git status
+   65  git commit
+   66  git commit -m "Linix files"
+   67  git config --global user.name "Siyabulela"
+   68  git config --global user.mail siyabulelakhumalo079@gmail.com
+   69  git remote add origin https://github.com/Siyabulela/Linux-Challenges.git
+   70  git push -u origin master
+   71  git log
+   72  ls
+   73  cd git-basic-exercises/
+   74  git log
+   75  q
+   76  sudo apt install python-q-text-as-data
+   77  sudo apt install python3-q-text-as-data
+   78  git log
+   79  q
+   80  git checkout
+   81  git checkout 5f737039f65aad19b9909a9171197d9086722607
+   82  cat README.md
+   83  git checkout master
+   84  cat README.md
+   85  git branch
+   86  git branch "milshake-flavours"
+   87  git checkout milkshake-flavours
+   88  git checkout milshake-flavours
+   89  nano milshake.md
+   90  git status
+   91  git add milshake.md
+   92  git commit -m "added initial flavours"
+   93  git log
+   94  git checkout master
+   95  git branch history
+   96  git checkout history
+   97  history > history.txt
